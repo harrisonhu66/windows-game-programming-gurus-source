@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Breakout/Breakout.vcxproj" Id="802d13c0-d9f7-4052-9e73-8379b5b34636" />
+  <Project Path="demo2_2/demo2_2.vcxproj" Id="e33ce926-b4f8-415e-8c3f-c55b7b390de5" />
 </Solution>
