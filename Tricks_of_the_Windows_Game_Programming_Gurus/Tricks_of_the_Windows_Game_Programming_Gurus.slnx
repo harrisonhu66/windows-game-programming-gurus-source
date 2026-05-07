@@ -6,5 +6,6 @@
   <Project Path="Breakout/Breakout.vcxproj" Id="802d13c0-d9f7-4052-9e73-8379b5b34636" />
   <Project Path="demo02_3/demo02_3.vcxproj" Id="9b7607c4-c801-43d7-8de0-8f36f7fced0f" />
   <Project Path="demo2_2/demo2_2.vcxproj" Id="e33ce926-b4f8-415e-8c3f-c55b7b390de5" />
+  <Project Path="demo2_5/demo2_5.vcxproj" Id="49306c88-7c1a-471a-a516-625a372dae34" />
   <Project Path="my_demo02_3/my_demo02_3.vcxproj" Id="ea90335c-414b-4097-8279-742cd5b28da8" />
 </Solution>
