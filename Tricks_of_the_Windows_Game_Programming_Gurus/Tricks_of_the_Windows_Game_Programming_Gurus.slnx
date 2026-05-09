@@ -5,6 +5,11 @@
   </Configurations>
   <Project Path="Breakout/Breakout.vcxproj" Id="802d13c0-d9f7-4052-9e73-8379b5b34636" />
   <Project Path="demo02_3/demo02_3.vcxproj" Id="9b7607c4-c801-43d7-8de0-8f36f7fced0f" />
+  <Project Path="demo03_3/demo03_3.vcxproj" Id="676127ec-9c2f-471a-a532-57718ec7d792" />
+  <Project Path="demo03_5/demo03_5.vcxproj" Id="7196dc39-3215-4b7f-9293-a431a3a57245" />
+  <Project Path="demo03_6/demo03_6.vcxproj" Id="b07370ef-6eee-43c6-af6d-aefe5f8ae1f7" />
+  <Project Path="demo03_7/demo03_7.vcxproj" Id="634ff05e-0e0d-4ead-bc64-32bb7e2d8973" />
+  <Project Path="demo03_8/demo03_8.vcxproj" Id="fcad9dc7-620a-4e10-af17-08705bf16bc5" />
   <Project Path="demo2_2/demo2_2.vcxproj" Id="e33ce926-b4f8-415e-8c3f-c55b7b390de5" />
   <Project Path="demo2_5/demo2_5.vcxproj" Id="49306c88-7c1a-471a-a516-625a372dae34" />
   <Project Path="demo3_1/demo3_1.vcxproj" Id="aef3d864-c237-40a3-9bbd-a2c3099dbc89" />
